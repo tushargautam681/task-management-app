@@ -1,4 +1,7 @@
  # Task Management App
+<img width="812" height="469" alt="Screenshot 2025-12-12 161212" src="https://github.com/user-attachments/assets/9aed5bfc-fd9a-4779-9368-0189d30b6d0e" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-12 161505" src="https://github.com/user-attachments/assets/0115703c-68ee-4d1c-9213-2680144c0141" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-12 161522" src="https://github.com/user-attachments/assets/597c1d78-26f7-4328-b646-7562de1e1214" />
 
 A Java-based task management web application built as a Semester 5 project. It helps users register, log in, and manage their daily tasks with a simple, structured interface.
 
